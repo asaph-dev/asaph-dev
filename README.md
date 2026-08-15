@@ -3,9 +3,8 @@
 **Aluno de Full Stack JavaScript**
 
 ## 🧑‍🏫 Liderança Técnica & Histórico Acadêmico
-- 🚀 **Foco:** Treinar e mentorar Desenvolvedores Full Stack (ambientes de produção Front-end e Back-end).
+- 🚀 **Foco:** Treinar e Desenvolvedor Aplicação Full Stack (ambientes de produção Front-end e Back-end).
 - 📘 **Disciplinas que Leciono:** Engenharia Web, Lógica com JS/TS, Gestão de Tecnologia e Computação Aplicada.
-- 🎓 **Formação:** Bacharel em Análise e Desenvolvimento de Sistemas (ADS).
 - 📚 **Evolução Contínua:** Certificações ativas e aprendizado contínuo focado em práticas robustas de engenharia de software.
 
 ## 💻 Tech Stack & Estrutura de Ensino
